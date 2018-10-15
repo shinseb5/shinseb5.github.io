@@ -1,0 +1,200 @@
+.lien-article{
+
+    font-family: 'Roboto Condensed', sans-serif !important;
+    font-weight: bold;
+    font-size: 1.2em;
+    color: #944267;
+}
+
+.lien-article a{
+
+    color: #944267;
+}
+
+.middle-page{
+    background-color: #f3e8ec; 
+    color: #000000; 
+    
+    background-image: linear-gradient(90deg, rgba(71,71,71,1) 0%, rgba(71,71,71,0.7) 50%, rgba(71,71,71,0.7) 100%),  url(http://www.slate.fr/sites/default/files/styles/1680x670/public/chris-lawton-99165-unsplash.jpg);
+}
+
+.middle-page h3{
+    font-family: 'Alegreya', serif !important;
+    color: white;
+    font-size: 90px;
+    
+}
+
+.middle-page p,span{
+    font-family: 'Alegreya', serif !important;
+    color: white;
+    font-size: 20px;
+     
+    
+}
+
+.middle-page h4{
+    font-family: 'Alegreya', serif !important;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+.jumbotron{
+
+    background-color: transparent !important;
+}
+.btn-trans{
+    color: white;
+    border: solid 3px;
+    border-radius: 0;
+    border-color: white;
+
+}
+
+.btn-trans:hover {
+	background-color: #f8f2f4  !important;
+	color: #6e0031 !important;
+}
+
+.btn-more-about{
+    margin-top: 2.5em;
+	padding: 1em;
+    margin-bottom: 2em;
+	border: 4px solid #6e0031; 
+    border-radius: 0%;
+    background-color:  white !important;
+    color:  #6e0031 !important;
+}
+
+
+.btn-more-about:hover {
+	background-color:  #6e0031 !important;
+	color: white !important;
+}
+
+.zoom-podcast{
+   
+    transition: opacity 1.5s;
+    transition: transform 2s;
+  }
+  
+  .zoom-podcast:hover{
+   
+    transform: scale(1.03);
+    opacity: 0.7;
+  }
+
+  .box{
+    
+    overflow: hidden;
+    border-radius: 0;  
+    width: 18rem;
+    align-items: center;
+  }
+
+.main-box{
+
+    position: relative;
+    z-index:2;
+
+}
+.white-box1{
+    margin-top: 0.5rem;
+    position: absolute;
+    z-index: 1;
+    border: 5px solid white;
+    width: 16rem;
+    height: 21rem;
+  }
+
+  .white-box2{
+    margin-top: 0.5rem;
+    position: absolute;
+    z-index: 1;
+    border: 5px solid white;
+    width: 16rem;
+    height: 21rem;
+  }
+
+  .white-box3{
+    margin-top: 0.5rem;
+    position: absolute;
+    z-index: 1;
+    border: 5px solid white;
+    width: 16rem;
+    height: 21rem;
+  }
+
+  .white-box4{
+    margin-top: 0.5rem;
+    position: absolute;
+    z-index: 1;
+    border: 5px solid white;
+    width: 16rem;
+    height: 21rem;
+  }
+
+  .white-box5{
+    margin-top: 0.5rem;
+    position: absolute;
+    z-index: 1;
+    border: 5px solid white;
+    width: 16rem;
+    height: 21rem;
+  }
+
+  .white-box6{
+    margin-top: 0.5rem;
+    position: absolute;
+    z-index: 1;
+    border: 5px solid white;
+    width: 16rem;
+    height: 21rem;
+  }
+
+  .back-block{
+
+    background-color:#232832;
+  }
+  /* .white-box:hover{
+    margin-top: unset;
+    position: unset;
+    z-index: unset;
+    border: unset;
+    width: unset;
+    height: unset;
+     
+  }
+
+  .box:hover{
+   
+    position: unset;
+    z-index: unset;
+  } */
+  
+  footer{
+    
+    background-color: #6e0031;
+  }
+  
+  /*.im-bt{*/
+    
+  /*  height: 4rem;*/
+  /*  background-color: #603CC2;*/
+  /*  border-radius: 50%;*/
+  /*}*/
+  
+  .text-main{
+    font-size: 1.25em;
+    color: white;
+  }
+  
+  .lecteur{
+    
+    background-color: white;
+    height: 1em;
+    width: 1em;
+    border-radius: 50%;
+    color: #603CC2;
+  }

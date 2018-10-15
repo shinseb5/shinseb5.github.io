@@ -1,0 +1,32 @@
+/* -------------------------------*\
+			General
+\*--------------------------------*/
+body{
+	background-color: #6e0031;
+	margin: 0; 
+}
+/* -------------------------------*\
+		Background-color & color
+\*--------------------------------*/
+.bg-white-page{
+  background-color: #f8f2f4;
+}
+.white-text{
+  color: #f8f2f4;
+}
+/* -------------------------------*\
+		Item center
+\*--------------------------------*/
+.center-container{
+  width: 100%;
+  text-align: center;
+}
+.item-center{
+  display: inline-block;
+}
+/* -------------------------------*\
+			Card
+\*--------------------------------*/
+.profil-img{
+  width: 50%;
+}

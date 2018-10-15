@@ -1,0 +1,57 @@
+/* -------------------------------*\
+			Article Text
+\*--------------------------------*/
+.article-une-content{
+	width: 70%;
+	font-style: bold;
+}
+.article-title,
+.article-une a{
+	text-decoration: none;
+	color: #6e0031;
+}
+
+.article-content{
+	color: #86707a;
+	font-size: 1.5em
+}
+.first-three-article{
+	margin-top: 10em;
+}
+.article-infos{
+	color: #86707a;
+}
+.article-author{
+	color: #c13e7d;
+}
+/* -------------------------------*\
+			Article Image
+\*--------------------------------*/
+
+.article-img{
+	margin-bottom: 1em;	
+	width: 25em;
+}
+.article-img-2{
+	width: 40em;
+}
+.grand-format-img{
+	width: 100%;
+}
+/* -------------------------------*\
+			Article Position
+\*--------------------------------*/
+.left-center{
+	display: flex;
+	flex-direction: column;
+}
+.box-out{
+	z-index: 1;
+}
+.box-in{
+	position: absolute;
+	z-index: 2;
+}
+.last-articles{
+	padding:2%;
+}
